@@ -1,1 +1,1 @@
-# Paint-wi-95
+# Paint-win-95
